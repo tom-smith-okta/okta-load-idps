@@ -1,0 +1,9 @@
+{
+	"okta_rp_domain": "https://dev-114794.okta.com",
+	"okta_idp_domain": "https://okta-oidc-idp.okta.com",
+	"okta_rp_idp_disco_policy_id": "00p167urzuGxRUmyp357",
+	"client_id": "0oa11dhbcpKBSVyzy357",
+	"idp_max": 1000,
+	"batch_size_limit": 200,
+	"sleep_ms": 2500
+}
